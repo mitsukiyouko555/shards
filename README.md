@@ -1,5 +1,7 @@
 ![SHARDS Logo](src-tauri/icons/Square107x107Logo.png)
 
+# SHARDS APP
+
 Shards is an app that helps writers catch potential plotholes - especially when it comes to long running series.
 
 It has a built in Dashboard that displays all characters, assets/items/props, and settings - all of which have states that are trackable across all arcs.
@@ -20,7 +22,9 @@ Another plugin I plan to add is to create a fight scene calculator where you sel
 
 This is a WIP Project that I'm working on in my spare time, outside my day job and aside from working on my personal megaproject (https://mitsukiyouko555.wixsite.com/portfolio/personal-project) so it may take some time for it to be available/usable for other users but I hope to make it useful for writers other than myself in the future - so I'll be keeping interchangeability in mind when I code.
 
-TLDR:
+---
+
+**TLDR:**
 
 Core Components:
 - Dashboard

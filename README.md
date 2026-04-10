@@ -1,4 +1,4 @@
-![SHARDS Logo](icons/64x64.png)
+![SHARDS Logo](src-tauri/icons/64x64.png)
 
 Shards is an app that helps writers catch potential plotholes - especially when it comes to long running series.
 

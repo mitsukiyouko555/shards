@@ -1,3 +1,6 @@
+![Shards Logo](https://github.com/mitsukiyouko555/shards/blob/main/shardsLogo.png")
+
+
 Shards is an app that helps writers catch potential plotholes - especially when it comes to long running series.
 
 It has a built in Dashboard that displays all characters, assets/items/props, and settings - all of which have states that are trackable across all arcs.

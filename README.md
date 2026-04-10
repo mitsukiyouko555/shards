@@ -1,4 +1,4 @@
-![SHARDS Logo](src-tauri/icons/Square107x107Logo.png)
+![SHARDS Logo](src-tauri/icons/Square142x142Logo.png)
 
 # SHARDS APP
 

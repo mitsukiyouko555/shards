@@ -1,5 +1,4 @@
-![Shards Logo](https://github.com/mitsukiyouko555/shards/blob/main/shardsLogo.png")
-
+![SHARDS Logo](static/favicon.png)
 
 Shards is an app that helps writers catch potential plotholes - especially when it comes to long running series.
 

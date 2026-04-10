@@ -39,3 +39,5 @@ Supported Plugins:
 - Fight Scene Calculator
 
 Might add more in the future, but for now, this is plenty!
+
+\- Mitsuki
